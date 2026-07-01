@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0205/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說出生無量門持經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1012.xml
+    old_id: T19n1012
+hash: sha256:4a9729375029031e9590f7d94e90c227ef5141fbe9b8d7bdca3bda0c8f0d3f98
