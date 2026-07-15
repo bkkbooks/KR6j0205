@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0205/v1
 canonical_location: https://kanripo.org/bkk/KR6j0205/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說出生無量門持經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0205_000.yaml, hash: 'sha256:4a9729375029031e9590f7d94e90c227ef5141fbe9b8d7bdca3bda0c8f0d3f98'}
-  - {seq: 1, filename: KR6j0205_001.yaml, hash: 'sha256:1efc7e8ea9dfb84a20b269ee276a090d3a771ee192ef72423057bfcda01a3121'}
+  - {seq: 1, filename: KR6j0205_001.yaml, hash: 'sha256:845767c72efc62cdad952741ab047e27b4a8e9c5f878dfcc65d6eb8ae491e30e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0205_000.markers.yaml, hash: 'sha256:aea7edb8618b7a9258fd2e8033b778988b1440e68404ede399c28348bd299420'}
-  - {seq: 1, role: markers, filename: assets/KR6j0205_001.markers.yaml, hash: 'sha256:5208e521bacc2f7a59bedb8849f1092d88d31b6830101cfca54162e19c302b90'}
+  - {seq: 1, role: markers, filename: assets/KR6j0205_001.markers.yaml, hash: 'sha256:ccf028ad376d6eec0d054ce8a95b59ea4b02d21391c733f4f048077397f2868f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說出生無量門持經
   type: juan
   level: 1
-hash: sha256:55a8a79bdbf3afba6962ddd3ee4d988dd10a1b9d4a0183be98517e4b744969dc
+hash: sha256:8026f0a7c71840cfa1dc28fff0240da5fdf1b6a1146326628b451cb396936493
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
